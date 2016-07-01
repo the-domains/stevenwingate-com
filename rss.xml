@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[stevenwingate.com]]></title>
+        <description><![CDATA[stevenwingate.com]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 01 Jul 2016 19:55:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Redesigning stevenwingate.com for The Grid. It'll be a work in progress for a while. Until then the good ol' www.stevenwingate.com Authors Guild site works fine. Thanks for stopping by!</p>]]></description>
+            <link>undefinedredesigning-stevenwingatecom-for-the-grid-itll-be-a-work/index.html</link>
+            <guid isPermaLink="false">e6bf58cd-ea9e-4ad2-8cdd-cdd51687e46f</guid>
+            <pubDate>Fri, 01 Jul 2016 19:55:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
